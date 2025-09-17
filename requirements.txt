@@ -1,0 +1,6 @@
+pandas
+pyarrow
+# opcional (alternativa ao pyarrow):
+# fastparquet
+
+

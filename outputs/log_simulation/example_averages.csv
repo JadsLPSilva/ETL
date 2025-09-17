@@ -1,0 +1,26 @@
+filename,name,key,value,error
+example.out,Average up sign,average_up_sign,1.0,0.0
+example.out,Average total sign,average_total_sign,1.0,0.0
+example.out,Average density,average_density,1.0,0.0
+example.out,Average up occupancy,average_up_occupancy,0.5,0.0
+example.out,Average phonon displacement,average_phonon_displacement,-0.001060673235759778,0.00166681242837124
+example.out,Average Holstein phonon displacement,average_holstein_phonon_displacement,0.006939348513679331,0.004918791729624919
+example.out,Average phonon displacement (xx),average_phonon_displacement_xx,-0.001766624415519245,0.002700246281279161
+example.out,Average phonon displacement (yy),average_phonon_displacement_yy,-0.0003547220560003097,0.00270653177107666
+example.out,Average Energy,average_energy,-1.24079497573359,0.006761841191301754
+example.out,Average Kinetic Energy,average_kinetic_energy,-0.990953444470483,0.00115736555516461
+example.out,Average Kinetic Energy(xx),average_kinetic_energy_xx,-0.645808263457236,0.001956997080616168
+example.out,Average Kinetic Energy(yy),average_kinetic_energy_yy,-0.345145181013246,0.001512227311193695
+example.out,Average EL-PH PE Holstein,average_el_ph_pe_holstein,0.0,0.0
+example.out,Average EL-PH PE (xx),average_el_ph_pe_xx,-2.87120857569349,0.008610061633335487
+example.out,Average EL-PH PE (yy),average_el_ph_pe_yy,-0.216764479174314,0.00275583682855966
+example.out,Average Nup*Ndn,average_nup_ndn,0.250000000001231,4.502876278055187e-13
+example.out,Average PH PE Holstein,average_ph_pe_holstein,0.23909622798499,0.001968749328690603
+example.out,Average Phonon PE,average_phonon_pe,1.94421496895176,0.00781059020361195
+example.out,Average PH KE Holstein,average_ph_ke_holstein,0.256477235895134,0.004355709405954856
+example.out,Average Phonon KE,average_phonon_ke,0.440486367537603,0.03109313204835656
+example.out,Average Phonon PE (xx),average_phonon_pe_xx,1.64205580465223,0.0074385674847668
+example.out,Average Phonon PE (yy),average_phonon_pe_yy,0.302159164299541,0.00232981606385049
+example.out,Average Phonon KE virial,average_phonon_ke_virial,0.398343090772818,0.003741953626377505
+example.out,Average Phonon KE virial (xx),average_phonon_ke_virial_xx,0.204639059394154,0.003567172009525288
+example.out,Average Phonon KE virial (yy),average_phonon_ke_virial_yy,0.193704031378665,0.00127869925564887

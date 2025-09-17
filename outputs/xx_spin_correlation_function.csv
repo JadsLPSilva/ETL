@@ -1,0 +1,16 @@
+metric,source_file,i,j,value,err
+xx Spin correlation function,example.out,0,0,0.499999999997538,9.005841263515697e-13
+xx Spin correlation function,example.out,0,1,-0.1122805964953,5.615460017583648e-05
+xx Spin correlation function,example.out,0,2,0.0006366462475117865,1.794208087340733e-06
+xx Spin correlation function,example.out,0,3,-0.005148344940621422,4.700683853046315e-05
+xx Spin correlation function,example.out,0,4,0.0001009272423340587,1.489223273023331e-06
+xx Spin correlation function,example.out,1,1,0.0005103292277312173,4.582108236674964e-06
+xx Spin correlation function,example.out,1,2,-0.00207792639476529,2.030267018928236e-05
+xx Spin correlation function,example.out,1,3,9.984344449379171e-05,2.528860496572017e-06
+xx Spin correlation function,example.out,1,4,-0.001092683440570824,1.221352804264637e-05
+xx Spin correlation function,example.out,2,2,0.00011252399123308,2.434612970856956e-06
+xx Spin correlation function,example.out,2,3,-0.0003661859114235087,1.1302596550705e-05
+xx Spin correlation function,example.out,2,4,6.641829403565365e-05,1.920185044039948e-06
+xx Spin correlation function,example.out,3,3,4.720522710450963e-05,1.968239476829953e-06
+xx Spin correlation function,example.out,3,4,-0.0001916482629496389,9.286194783169609e-06
+xx Spin correlation function,example.out,4,4,3.167266242039809e-05,1.423319457606788e-06

@@ -1,0 +1,10 @@
+filename,name,key,value,error
+example.out,Bondx correlation function,bondx_correlation_function,75.4888731152267,0.08078408755761281
+example.out,Bondy correlation function,bondy_correlation_function,0.905815604881244,0.02861230481897396
+example.out,AF correlation function (xx),af_correlation_function_xx,1.00093075765832,0.0003498603693905849
+example.out,AF correlation function (zz),af_correlation_function_zz,1.00093075765832,0.0003498603693905849
+example.out,AF correlation function (Avg),af_correlation_function_avg,1.00093075765832,0.0003498603693905997
+example.out,CDW correlation function,cdw_correlation_function,1.00093075767128,0.0003498603670632299
+example.out,Ferro correlation function(xx),ferro_correlation_function_xx,0.0121187756437613,0.0003082517603665015
+example.out,Ferro correlation function(zz),ferro_correlation_function_zz,0.0121187756437613,0.0003082517603665015
+example.out,RMS AF correlation function (xx),rms_af_correlation_function_xx,1.00093459525199,0.0003500740448129698

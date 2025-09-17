@@ -1,0 +1,26 @@
+source_file,metric,i,j,value,err
+example.out,bond_allx-bond_allx correlation function,0,0,2.20901521286938,0.001909826337779001
+example.out,bond_allx-bond_allx correlation function,0,1,-0.790772815982014,0.003278538101757508
+example.out,bond_allx-bond_allx correlation function,0,2,1.59085663236661,0.00249652368130268
+example.out,bond_allx-bond_allx correlation function,0,3,-0.757470868544171,0.003008644570270597
+example.out,bond_allx-bond_allx correlation function,0,4,1.59057772657549,0.002736160837833707
+example.out,bond_allx-bond_allx correlation function,1,0,-0.565092064693729,0.002271621506055874
+example.out,bond_allx-bond_allx correlation function,1,1,1.6017607962009,0.002518981100185383
+example.out,bond_allx-bond_allx correlation function,1,2,-0.75760551748016,0.00312257834417434
+example.out,bond_allx-bond_allx correlation function,1,3,1.59101075665008,0.002560787615547096
+example.out,bond_allx-bond_allx correlation function,1,4,-0.757979987879895,0.003112499009172983
+example.out,bond_allx-bond_allx correlation function,2,0,1.59324182552164,0.0022225553043164
+example.out,bond_allx-bond_allx correlation function,2,1,-0.754278094557468,0.002992228600870899
+example.out,bond_allx-bond_allx correlation function,2,2,1.59172785759805,0.002544663520258961
+example.out,bond_allx-bond_allx correlation function,2,3,-0.757670598953891,0.003115529928749444
+example.out,bond_allx-bond_allx correlation function,2,4,1.59075470628864,0.00242624472657879
+example.out,bond_allx-bond_allx correlation function,3,0,-0.764255436394238,0.002957096990663649
+example.out,bond_allx-bond_allx correlation function,3,1,1.59211811229186,0.00251271661775783
+example.out,bond_allx-bond_allx correlation function,3,2,-0.756893832332328,0.003048807127404434
+example.out,bond_allx-bond_allx correlation function,3,3,1.59120219221176,0.002518379375262612
+example.out,bond_allx-bond_allx correlation function,3,4,-0.75746197045035,0.003039430483897456
+example.out,bond_allx-bond_allx correlation function,4,0,1.57294779383523,0.002380085321265799
+example.out,bond_allx-bond_allx correlation function,4,1,-0.757055464208466,0.002986190171882228
+example.out,bond_allx-bond_allx correlation function,4,2,1.59149992905581,0.00252750379130135
+example.out,bond_allx-bond_allx correlation function,4,3,-0.757476346455618,0.003111305416157265
+example.out,bond_allx-bond_allx correlation function,4,4,1.59142525315819,0.002627632756864517

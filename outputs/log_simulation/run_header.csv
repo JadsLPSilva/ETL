@@ -1,2 +1,0 @@
-tausk,phonskip,numtry,gsize,lambda0,istart,initial_phonon_scale_1,initial_phonon_scale_2,initial_bond_field_x,initial_bond_field_y,mu,accept_holstein_warmup,accept2_ssh_warmup,accept2_holstein_warmup,gamma,redo_ratio_warmup,redo_ratio_end,accept2_ssh_end,accept2_hol_end
-200,2,7,0.0,0.0,1,1.41421356528801,1.41421356528801,0.4,0.0,0.0,0.4747475,0.2667631,1.0,0.0,0.0013172338,0.000297274,0.2677476,1.0

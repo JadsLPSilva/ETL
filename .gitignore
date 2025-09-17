@@ -1,1 +1,31 @@
-outputs/
+# Envs
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+.ipynb_checkpoints/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# IDE / SO
+.vscode/
+.idea/
+.DS_Store
+
+# Segredos comuns
+.env
+*.env
+
+# Saídas de execução — ignore tudo em outputs/
+outputs/**
+
+# Mas mantenha arquivos de exemplo (ajuste se quiser)
+!outputs/example_*
+!outputs/log_simulation/**
+!outputs/real_space/**
